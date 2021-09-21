@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Rollingegg/qingxunying-practice/issues"
   },
-  "homepage": "https://github.com/Rollingegg/qingxunying-practice#readme"
+  "homepage": "https://github.com/Rollingegg/qingxunying-practice#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.8.0"
+  }
 }
